@@ -1,5 +1,5 @@
 const path = require('path')
-constexpress = require('express')
+const express = require('express')
 const layout = require('express-layout')
 
 
